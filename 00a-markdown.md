@@ -36,7 +36,7 @@ Markdown is a simple way to add formatting — like headers, bold/italic text, a
 
 **How to add line breaks:**  
 1.  add two spaces to end of line 
-2.  can enclose text in triple back quotes 
+2.  can enclose text in triple back quotes  
 '''try add line break'''
 ---
 
