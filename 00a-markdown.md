@@ -165,7 +165,7 @@ Content in the first column | Content in the second column
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
-this is a test 1|this is a test two
+This is a test 1|this is a test two
 Content in the first column | Content in the second column
 
 ---
